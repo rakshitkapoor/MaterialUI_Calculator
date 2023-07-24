@@ -10,9 +10,11 @@ ViewBinding - For Referencing Views
 
 # Preview
 
+<img width="417" alt="Screenshot 2023-07-24 at 1 59 26 PM" src="https://github.com/rakshitkapoor/MaterialUI_Calculator/assets/75168728/c3e830a6-be4a-44d6-bc46-f3d12a1bfeae">,                   
 
-![Screenshot_20230724_135228_Calculator](https://github.com/rakshitkapoor/MaterialUI_Calculator/assets/75168728/51c16f1d-32dc-47a2-856a-61da325f6f7a)
 
 
-![Screenshot_20230724_135403_Calculator](https://github.com/rakshitkapoor/MaterialUI_Calculator/assets/75168728/8f703150-b1ed-43b9-8b79-a3c910c7943b)
+<img width="417" alt="Screenshot 2023-07-24 at 1 59 49 PM" src="https://github.com/rakshitkapoor/MaterialUI_Calculator/assets/75168728/f2b82122-25d0-4656-9171-15713a035ce0">
+
+
 
